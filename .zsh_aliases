@@ -1,0 +1,31 @@
+# General
+alias l='ls -CF'
+alias la='ls -la'
+alias ll='ls -l'
+alias ls='ls --color=auto'
+alias grep='grep --color=auto'
+alias egrep='egrep --color=auto'
+alias fgrep='fgrep --color=auto'
+alias diff='diff --color=auto'
+
+# Network
+alias ip='ip --color=auto'
+
+# Applications
+alias v='nvim'
+
+# Terminal
+#alias plz='sudo !!'
+alias e='exit'
+alias c='clear'
+
+# Clipboard control
+alias cc='xclip -r -sel clip'
+
+# Package management
+alias update='sudo pacman -Syu'
+alias clean='sudo pacman -Rns $(pacman -Qdtq)'
+alias search='pacman -Ss'
+alias install='sudo pacman -S'
+alias remove='sudo pacman -Rns'
+alias info='pacman -Qi'
