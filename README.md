@@ -15,4 +15,16 @@ ls -a ~/.config/zsh/
 
 Move the nvim folder into the `~/.config` directory
 
+**Installed plugins:**
+- autocomletion
+- colorizer
+- lsp
+- lualine
+- markdown-renderer
+- misc
+- neotree
+- nordic-theme
+- telescope
+- treesitter
+
 ---
