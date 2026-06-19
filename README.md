@@ -23,7 +23,7 @@ Move the nvim folder into the `~/.config` directory
 - markdown-renderer
 - misc
 - neotree
-- nordic-theme
+- bamboo
 - telescope
 - treesitter
 
